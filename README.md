@@ -62,7 +62,7 @@ class NewLocationManager {
     }
 }
 ```
-You can get a working project [here](https://github.com/giria/NewLocation)
+
 
 
 
@@ -70,4 +70,4 @@ You can get a working project [here](https://github.com/giria/NewLocation)
 This code is an adaption of the article:
 [article](https://holyswift.app/the-new-way-to-get-current-user-location-in-swiftu-tutorial/)
 
-Really, this [https://holyswift.app](https://holyswift.app) website  is one the best Swift resources about Swift.
+I don't know the person behind this [https://holyswift.app](https://holyswift.app) website, but in my opinion   is one the best Swift resources about Swift.
