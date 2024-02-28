@@ -9,7 +9,7 @@ In a lot of situations (not only accessing maps) we need the user to grant acces
 Remeber that first thing we need to do is to add the permission in the info.plist file. So select your target , select the info Tab, and add the key "Privacy - Location When in Use Usage Description", for the value jot down any text explaining the reason, for example, "Please give location permission". 
 
 
-[Location info.plist](https://static.wixstatic.com/media/198d86_3026026f24624762aad896388f72cc92~mv2.png)
+![Location info.plist](https://static.wixstatic.com/media/198d86_3026026f24624762aad896388f72cc92~mv2.png)
 
 
 With the new Observation framework the code is simpler and cleaner:
