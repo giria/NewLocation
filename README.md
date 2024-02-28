@@ -12,7 +12,7 @@ Remeber that first thing we need to do is to add the permission in the info.plis
 [Location info.plist](https://static.wixstatic.com/media/198d86_3026026f24624762aad896388f72cc92~mv2.png)
 
 
-With the new @Observable the code is simpler and cleaner:
+With the new Observation framework the code is simpler and cleaner:
 
 ```
 import SwiftUI
