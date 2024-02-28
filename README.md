@@ -1,4 +1,4 @@
-# SwiftUI: requestion location permission
+# SwiftUI: How to request location permission
 
 
 
